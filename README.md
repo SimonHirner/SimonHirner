@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Simon</h1>
-<h4 align="center"> Software Developer | Information Systems and Management Undergraduate | IT Management Assistant </h4>
+<h4 align="center"> Software Engineering Student | B.Sc. Information Systems and Management | Certified IT Management Assistant </h4>
 <br>
 
 <h4 align="left">Connect with me:</h4>
